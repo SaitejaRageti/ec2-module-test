@@ -10,6 +10,10 @@ Passed project-specific values like:
 
 AMI ID
 
+New AMI (Use this going forward):
+ • Name: Redhat-9-DevOps-Practice
+ • AMI ID: ami-0220d79f3f480ecf5
+
 Instance Type
 
 VPC Security Group ID

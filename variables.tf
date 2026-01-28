@@ -7,3 +7,6 @@ variable "tags_name" {
         Name = "roboshop"
     }
 }
+variable "ami_id" {
+  default = "ami-09c813fb71547fc4f"
+}
