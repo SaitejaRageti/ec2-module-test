@@ -8,5 +8,5 @@ variable "tags_name" {
     }
 }
 variable "ami_id" {
-  default = "ami-09c813fb71547fc4f"
+  default = "ami-0220d79f3f480ecf5"
 }
